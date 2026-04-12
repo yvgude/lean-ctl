@@ -1,0 +1,16 @@
+LeanCTL — Proprietary Software License
+
+Copyright (c) 2026 Yves Gugger. All rights reserved.
+
+The compiled binary of LeanCTL is provided free of charge for personal
+and commercial use. Redistribution of the binary is permitted provided
+this license notice is included.
+
+The source code of LeanCTL is proprietary and not included in this
+repository. Reverse engineering, decompilation, or disassembly of the
+binary is prohibited.
+
+The underlying engine "lean-ctx" is a separate project licensed under
+the MIT License. See https://github.com/yvgude/lean-ctx for details.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
